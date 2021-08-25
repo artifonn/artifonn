@@ -1,8 +1,8 @@
 ### What's up 👋
 
 <p>Me chamo Sérgio Artifon e tenho 30 anos.</p>
-<p>Aqui você terá acesso à todos os meus projetos e atividades
-desenvolvidas durante a minha trajetória até me tornar um Desenvolvedor Web.</p>
+<p>Aqui você terá acesso a todos os meus projetos e atividades
+desenvolvidas durante a minha trajetória até me tornar um Desenvolvedor Web Full Stack.</p>
 
 <div>
   <a href="https://github.com/artifonn">
