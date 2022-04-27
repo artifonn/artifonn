@@ -1,34 +1,13 @@
-### What's up 👋
+Hi 👋 My name is Sérgio Artifon ===============================  Web Developer Full-Stack ------------------------  
+Aqui você terá acesso a todos os meus projetos e atividades desenvolvidas durante a minha trajetória até me tornar um Desenvolvedor Web Full Stack.  * ✉️  You can contact me at [artifonn@gmail.com](mailto:artifonn@gmail.com) * 🧠  I'm learning HTML, CSS, JavaScript, React, NodeJS, Bootstrap, Python
 
-<p>Me chamo Sérgio Artifon e tenho 30 anos.</p>
-<p>Aqui você terá acesso a todos os meus projetos e atividades </br>
-desenvolvidas durante a minha trajetória até me tornar um </br>
-Desenvolvedor Web Full Stack.</p>
+### Skills
 
-<div>
-  <a href="https://github.com/artifonn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artifonn&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artifonn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a> <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a> <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/artifonn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https:/sérgio-artifon/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sergio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sergio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div>
-  
-  ##
- ### Saiba mais:
-<div> 
-   <a href="https://www.linkedin.com/in/sérgio-artifon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:artifonn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br><br>
-  <div>
-  
-  ![image](covers/dino_dark.gif)
-  </div>  
-</div>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/artifonn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=artifonn&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/artifonn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artifonn&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
