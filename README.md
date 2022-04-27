@@ -1,5 +1,11 @@
-Hi 👋 My name is Sérgio Artifon ===============================  Web Developer Full-Stack ------------------------  
-Aqui você terá acesso a todos os meus projetos e atividades desenvolvidas durante a minha trajetória até me tornar um Desenvolvedor Web Full Stack.  * ✉️  You can contact me at [artifonn@gmail.com](mailto:artifonn@gmail.com) * 🧠  I'm learning HTML, CSS, JavaScript, React, NodeJS, Bootstrap, Python
+       Hi 👋 My name is Sérgio Artifon 
+          Web Developer Full-Stack  
+          
+ Aqui você terá acesso a todos os meus projetos e atividades
+ desenvolvidas durante a minha trajetória até me tornar um 
+ Desenvolvedor Web Full Stack.  
+  * ✉️  You can contact me at [artifonn@gmail.com](mailto:artifonn@gmail.com) 
+  * 🧠  I'm learning HTML, CSS, JavaScript, React, NodeJS, Bootstrap, Python
 
 ### Skills
 
