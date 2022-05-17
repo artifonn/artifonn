@@ -1,7 +1,6 @@
 Sérgio Artifon
 =======================  
-Web Developer 
------
+
 Aqui você terá acesso a todos os meus projetos e atividades desenvolvidas durante a minha 
 
 
