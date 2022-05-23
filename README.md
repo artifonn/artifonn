@@ -9,7 +9,7 @@ trajetória até me tornar um Desenvolvedor Web Full Stack.
 
 
 &nbsp;
-* * 🌍  Sou de Brasília - Df
+* * 🌍  Sou de Brasília - DF
 * * 🧠  Eu estou aprendendo JavaScript, ReactJS, Redux, Jest, Node, Python, Html5, Css3. 
 * * 🤝  Estou aberto a colaborar com Front-End
 
