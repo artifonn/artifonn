@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim...
 
-Sou estudante do curso de Desenvolvimento de Sistemas no Instituto Federal de Brasília (IFB). Meu objetivo é construir
+Sou estudante de Engenharia de Software pela Universidade Católica de Brasília e estudante de Programação Full Stack pelo SENAI - SP. Meu objetivo é construir
 uma carreira como desenvolvedor de software altamente qualificado e impactar de forma positiva a vida de outras 
 pessoas através da programação gerando novas ideias e desenvolvendo soluções viáveis para 
 problemas amplamente relevantes.
