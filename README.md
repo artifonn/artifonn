@@ -19,7 +19,6 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas 
 - HTML5 / CSS
 - Docker
 - Java
-- Python
 - React
 
 ## Projetos Futuros
